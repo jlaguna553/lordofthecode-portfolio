@@ -1,0 +1,40 @@
+{
+  "name": "lordofthecode",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Generador de sprites LPC + integrador de acertijos POO (PHP) para videojuego EdTech",
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "node scripts/copy-php-wasm.mjs && node scripts/copy-sql-wasm.mjs && node scripts/copy-vue.mjs && next build",
+    "setup:sql": "node scripts/copy-sql-wasm.mjs",
+    "start": "next start",
+    "lint": "next lint",
+    "fetch:lpc": "node scripts/fetch-lpc.mjs",
+    "setup:php": "node scripts/copy-php-wasm.mjs",
+    "postinstall": "node scripts/copy-php-wasm.mjs && node scripts/copy-sql-wasm.mjs && node scripts/copy-vue.mjs",
+    "fetch:tiles": "node scripts/fetch-tiles.mjs",
+    "check:balance": "node scripts/check-balance.mjs"
+  },
+  "dependencies": {
+    "@monaco-editor/react": "^4.7.0",
+    "monaco-editor": "^0.56.0",
+    "next": "^15.5.4",
+    "phaser": "^4.2.1",
+    "php-wasm": "^0.1.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "sql.js": "^1.14.1",
+    "vue": "^3.5.40"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.13",
+    "@types/node": "^22",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "playwright": "^1.61.1",
+    "sharp": "^0.35.3",
+    "tailwindcss": "^4.1.13",
+    "typescript": "^5.7.3"
+  }
+}

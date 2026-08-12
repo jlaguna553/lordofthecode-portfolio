@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+:root {
+  color-scheme: dark;
+}
+
+body {
+  background:
+    radial-gradient(1200px 600px at 50% -10%, #1e293b 0%, #0b1120 55%, #060a14 100%);
+  min-height: 100vh;
+}
+
+/* Los sprites son pixel art: nunca interpolar al escalar */
+.pixelated {
+  image-rendering: pixelated;
+  image-rendering: crisp-edges;
+}

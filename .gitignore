@@ -1,0 +1,32 @@
+# deps
+/node_modules
+
+# next
+/.next
+/out
+next-env.d.ts
+
+# lpc asset cache (repo clone hecho por scripts/fetch-lpc.mjs)
+/.lpc-cache
+
+
+# misc
+.DS_Store
+*.tsbuildinfo
+
+# runtime php-wasm vendorizado: 17 MB que se copian desde la dependencia
+# en cada build (ver el script `build`), así que no hace falta versionarlo.
+/public/php-wasm
+
+# runtime de sql.js (SQLite WASM), copiado desde la dependencia en cada build.
+/public/sql
+
+# build global de Vue, copiado desde la dependencia en cada build.
+/public/vue
+
+# configuración local del agente
+/.claude
+
+
+# scratch local (scripts de validación efímeros)
+/scratchpad

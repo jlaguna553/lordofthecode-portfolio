@@ -1,0 +1,3103 @@
+{
+  "generatedAt": "2026-07-21T13:16:52.437Z",
+  "source": "sanderfrenken/Universal-LPC-Spritesheet-Character-Generator@master",
+  "frameSize": 64,
+  "categories": [
+    {
+      "id": "body",
+      "name": "Cuerpo",
+      "zPos": 10,
+      "optional": false,
+      "options": [
+        {
+          "id": "body:body:male:light",
+          "label": "Light",
+          "variant": "light",
+          "bodyType": "male",
+          "layers": [
+            {
+              "url": "/lpc/body/bodies/male/light.png",
+              "zPos": 10
+            }
+          ]
+        },
+        {
+          "id": "body:body:male:olive",
+          "label": "Olive",
+          "variant": "olive",
+          "bodyType": "male",
+          "layers": [
+            {
+              "url": "/lpc/body/bodies/male/olive.png",
+              "zPos": 10
+            }
+          ]
+        },
+        {
+          "id": "body:body:male:bronze",
+          "label": "Bronze",
+          "variant": "bronze",
+          "bodyType": "male",
+          "layers": [
+            {
+              "url": "/lpc/body/bodies/male/bronze.png",
+              "zPos": 10
+            }
+          ]
+        },
+        {
+          "id": "body:body:male:brown",
+          "label": "Brown",
+          "variant": "brown",
+          "bodyType": "male",
+          "layers": [
+            {
+              "url": "/lpc/body/bodies/male/brown.png",
+              "zPos": 10
+            }
+          ]
+        },
+        {
+          "id": "body:body:male:black",
+          "label": "Black",
+          "variant": "black",
+          "bodyType": "male",
+          "layers": [
+            {
+              "url": "/lpc/body/bodies/male/black.png",
+              "zPos": 10
+            }
+          ]
+        },
+        {
+          "id": "body:body:male:zombie_green",
+          "label": "Zombie_green",
+          "variant": "zombie_green",
+          "bodyType": "male",
+          "layers": [
+            {
+              "url": "/lpc/body/bodies/male/zombie_green.png",
+              "zPos": 10
+            }
+          ]
+        },
+        {
+          "id": "body:body:male:green",
+          "label": "Green",
+          "variant": "green",
+          "bodyType": "male",
+          "layers": [
+            {
+              "url": "/lpc/body/bodies/male/green.png",
+              "zPos": 10
+            }
+          ]
+        },
+        {
+          "id": "body:body:male:dark_green",
+          "label": "Dark_green",
+          "variant": "dark_green",
+          "bodyType": "male",
+          "layers": [
+            {
+              "url": "/lpc/body/bodies/male/dark_green.png",
+              "zPos": 10
+            }
+          ]
+        },
+        {
+          "id": "body:body:female:light",
+          "label": "Light",
+          "variant": "light",
+          "bodyType": "female",
+          "layers": [
+            {
+              "url": "/lpc/body/bodies/female/light.png",
+              "zPos": 10
+            }
+          ]
+        },
+        {
+          "id": "body:body:female:olive",
+          "label": "Olive",
+          "variant": "olive",
+          "bodyType": "female",
+          "layers": [
+            {
+              "url": "/lpc/body/bodies/female/olive.png",
+              "zPos": 10
+            }
+          ]
+        },
+        {
+          "id": "body:body:female:bronze",
+          "label": "Bronze",
+          "variant": "bronze",
+          "bodyType": "female",
+          "layers": [
+            {
+              "url": "/lpc/body/bodies/female/bronze.png",
+              "zPos": 10
+            }
+          ]
+        },
+        {
+          "id": "body:body:female:brown",
+          "label": "Brown",
+          "variant": "brown",
+          "bodyType": "female",
+          "layers": [
+            {
+              "url": "/lpc/body/bodies/female/brown.png",
+              "zPos": 10
+            }
+          ]
+        },
+        {
+          "id": "body:body:female:black",
+          "label": "Black",
+          "variant": "black",
+          "bodyType": "female",
+          "layers": [
+            {
+              "url": "/lpc/body/bodies/female/black.png",
+              "zPos": 10
+            }
+          ]
+        },
+        {
+          "id": "body:body:female:zombie_green",
+          "label": "Zombie_green",
+          "variant": "zombie_green",
+          "bodyType": "female",
+          "layers": [
+            {
+              "url": "/lpc/body/bodies/female/zombie_green.png",
+              "zPos": 10
+            }
+          ]
+        },
+        {
+          "id": "body:body:female:green",
+          "label": "Green",
+          "variant": "green",
+          "bodyType": "female",
+          "layers": [
+            {
+              "url": "/lpc/body/bodies/female/green.png",
+              "zPos": 10
+            }
+          ]
+        },
+        {
+          "id": "body:body:female:dark_green",
+          "label": "Dark_green",
+          "variant": "dark_green",
+          "bodyType": "female",
+          "layers": [
+            {
+              "url": "/lpc/body/bodies/female/dark_green.png",
+              "zPos": 10
+            }
+          ]
+        },
+        {
+          "id": "body:body:muscular:light",
+          "label": "Light",
+          "variant": "light",
+          "bodyType": "muscular",
+          "layers": [
+            {
+              "url": "/lpc/body/bodies/muscular/light.png",
+              "zPos": 10
+            }
+          ]
+        },
+        {
+          "id": "body:body:muscular:olive",
+          "label": "Olive",
+          "variant": "olive",
+          "bodyType": "muscular",
+          "layers": [
+            {
+              "url": "/lpc/body/bodies/muscular/olive.png",
+              "zPos": 10
+            }
+          ]
+        },
+        {
+          "id": "body:body:muscular:bronze",
+          "label": "Bronze",
+          "variant": "bronze",
+          "bodyType": "muscular",
+          "layers": [
+            {
+              "url": "/lpc/body/bodies/muscular/bronze.png",
+              "zPos": 10
+            }
+          ]
+        },
+        {
+          "id": "body:body:muscular:brown",
+          "label": "Brown",
+          "variant": "brown",
+          "bodyType": "muscular",
+          "layers": [
+            {
+              "url": "/lpc/body/bodies/muscular/brown.png",
+              "zPos": 10
+            }
+          ]
+        },
+        {
+          "id": "body:body:muscular:black",
+          "label": "Black",
+          "variant": "black",
+          "bodyType": "muscular",
+          "layers": [
+            {
+              "url": "/lpc/body/bodies/muscular/black.png",
+              "zPos": 10
+            }
+          ]
+        },
+        {
+          "id": "body:body:muscular:zombie_green",
+          "label": "Zombie_green",
+          "variant": "zombie_green",
+          "bodyType": "muscular",
+          "layers": [
+            {
+              "url": "/lpc/body/bodies/muscular/zombie_green.png",
+              "zPos": 10
+            }
+          ]
+        },
+        {
+          "id": "body:body:muscular:green",
+          "label": "Green",
+          "variant": "green",
+          "bodyType": "muscular",
+          "layers": [
+            {
+              "url": "/lpc/body/bodies/muscular/green.png",
+              "zPos": 10
+            }
+          ]
+        },
+        {
+          "id": "body:body:muscular:dark_green",
+          "label": "Dark_green",
+          "variant": "dark_green",
+          "bodyType": "muscular",
+          "layers": [
+            {
+              "url": "/lpc/body/bodies/muscular/dark_green.png",
+              "zPos": 10
+            }
+          ]
+        },
+        {
+          "id": "body:body:teen:light",
+          "label": "Light",
+          "variant": "light",
+          "bodyType": "teen",
+          "layers": [
+            {
+              "url": "/lpc/body/bodies/teen/light.png",
+              "zPos": 10
+            }
+          ]
+        },
+        {
+          "id": "body:body:teen:olive",
+          "label": "Olive",
+          "variant": "olive",
+          "bodyType": "teen",
+          "layers": [
+            {
+              "url": "/lpc/body/bodies/teen/olive.png",
+              "zPos": 10
+            }
+          ]
+        },
+        {
+          "id": "body:body:teen:bronze",
+          "label": "Bronze",
+          "variant": "bronze",
+          "bodyType": "teen",
+          "layers": [
+            {
+              "url": "/lpc/body/bodies/teen/bronze.png",
+              "zPos": 10
+            }
+          ]
+        },
+        {
+          "id": "body:body:teen:brown",
+          "label": "Brown",
+          "variant": "brown",
+          "bodyType": "teen",
+          "layers": [
+            {
+              "url": "/lpc/body/bodies/teen/brown.png",
+              "zPos": 10
+            }
+          ]
+        },
+        {
+          "id": "body:body:teen:black",
+          "label": "Black",
+          "variant": "black",
+          "bodyType": "teen",
+          "layers": [
+            {
+              "url": "/lpc/body/bodies/teen/black.png",
+              "zPos": 10
+            }
+          ]
+        },
+        {
+          "id": "body:body:teen:zombie_green",
+          "label": "Zombie_green",
+          "variant": "zombie_green",
+          "bodyType": "teen",
+          "layers": [
+            {
+              "url": "/lpc/body/bodies/teen/zombie_green.png",
+              "zPos": 10
+            }
+          ]
+        },
+        {
+          "id": "body:body:teen:green",
+          "label": "Green",
+          "variant": "green",
+          "bodyType": "teen",
+          "layers": [
+            {
+              "url": "/lpc/body/bodies/teen/green.png",
+              "zPos": 10
+            }
+          ]
+        },
+        {
+          "id": "body:body:teen:dark_green",
+          "label": "Dark_green",
+          "variant": "dark_green",
+          "bodyType": "teen",
+          "layers": [
+            {
+              "url": "/lpc/body/bodies/teen/dark_green.png",
+              "zPos": 10
+            }
+          ]
+        },
+        {
+          "id": "body:body:child:light",
+          "label": "Light",
+          "variant": "light",
+          "bodyType": "child",
+          "layers": [
+            {
+              "url": "/lpc/body/bodies/child/light.png",
+              "zPos": 10
+            }
+          ]
+        },
+        {
+          "id": "body:body:child:olive",
+          "label": "Olive",
+          "variant": "olive",
+          "bodyType": "child",
+          "layers": [
+            {
+              "url": "/lpc/body/bodies/child/olive.png",
+              "zPos": 10
+            }
+          ]
+        },
+        {
+          "id": "body:body:child:bronze",
+          "label": "Bronze",
+          "variant": "bronze",
+          "bodyType": "child",
+          "layers": [
+            {
+              "url": "/lpc/body/bodies/child/bronze.png",
+              "zPos": 10
+            }
+          ]
+        },
+        {
+          "id": "body:body:child:brown",
+          "label": "Brown",
+          "variant": "brown",
+          "bodyType": "child",
+          "layers": [
+            {
+              "url": "/lpc/body/bodies/child/brown.png",
+              "zPos": 10
+            }
+          ]
+        },
+        {
+          "id": "body:body:child:black",
+          "label": "Black",
+          "variant": "black",
+          "bodyType": "child",
+          "layers": [
+            {
+              "url": "/lpc/body/bodies/child/black.png",
+              "zPos": 10
+            }
+          ]
+        },
+        {
+          "id": "body:body:child:zombie_green",
+          "label": "Zombie_green",
+          "variant": "zombie_green",
+          "bodyType": "child",
+          "layers": [
+            {
+              "url": "/lpc/body/bodies/child/zombie_green.png",
+              "zPos": 10
+            }
+          ]
+        },
+        {
+          "id": "body:body:child:green",
+          "label": "Green",
+          "variant": "green",
+          "bodyType": "child",
+          "layers": [
+            {
+              "url": "/lpc/body/bodies/child/green.png",
+              "zPos": 10
+            }
+          ]
+        },
+        {
+          "id": "body:body:child:dark_green",
+          "label": "Dark_green",
+          "variant": "dark_green",
+          "bodyType": "child",
+          "layers": [
+            {
+              "url": "/lpc/body/bodies/child/dark_green.png",
+              "zPos": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "legs",
+      "name": "Pantalón",
+      "zPos": 20,
+      "optional": true,
+      "options": [
+        {
+          "id": "legs:legs_pants:male:black",
+          "label": "Pantalón · Black",
+          "variant": "black",
+          "bodyType": "male",
+          "layers": [
+            {
+              "url": "/lpc/legs/pants/male/black.png",
+              "zPos": 20
+            }
+          ]
+        },
+        {
+          "id": "legs:legs_pants:male:brown",
+          "label": "Pantalón · Brown",
+          "variant": "brown",
+          "bodyType": "male",
+          "layers": [
+            {
+              "url": "/lpc/legs/pants/male/brown.png",
+              "zPos": 20
+            }
+          ]
+        },
+        {
+          "id": "legs:legs_pants:male:forest",
+          "label": "Pantalón · Forest",
+          "variant": "forest",
+          "bodyType": "male",
+          "layers": [
+            {
+              "url": "/lpc/legs/pants/male/forest.png",
+              "zPos": 20
+            }
+          ]
+        },
+        {
+          "id": "legs:legs_pants:male:charcoal",
+          "label": "Pantalón · Charcoal",
+          "variant": "charcoal",
+          "bodyType": "male",
+          "layers": [
+            {
+              "url": "/lpc/legs/pants/male/charcoal.png",
+              "zPos": 20
+            }
+          ]
+        },
+        {
+          "id": "legs:legs_pants:female:black",
+          "label": "Pantalón · Black",
+          "variant": "black",
+          "bodyType": "female",
+          "layers": [
+            {
+              "url": "/lpc/legs/pants/thin/black.png",
+              "zPos": 20
+            }
+          ]
+        },
+        {
+          "id": "legs:legs_pants:female:brown",
+          "label": "Pantalón · Brown",
+          "variant": "brown",
+          "bodyType": "female",
+          "layers": [
+            {
+              "url": "/lpc/legs/pants/thin/brown.png",
+              "zPos": 20
+            }
+          ]
+        },
+        {
+          "id": "legs:legs_pants:female:forest",
+          "label": "Pantalón · Forest",
+          "variant": "forest",
+          "bodyType": "female",
+          "layers": [
+            {
+              "url": "/lpc/legs/pants/thin/forest.png",
+              "zPos": 20
+            }
+          ]
+        },
+        {
+          "id": "legs:legs_pants:female:charcoal",
+          "label": "Pantalón · Charcoal",
+          "variant": "charcoal",
+          "bodyType": "female",
+          "layers": [
+            {
+              "url": "/lpc/legs/pants/thin/charcoal.png",
+              "zPos": 20
+            }
+          ]
+        },
+        {
+          "id": "legs:legs_pants:muscular:black",
+          "label": "Pantalón · Black",
+          "variant": "black",
+          "bodyType": "muscular",
+          "layers": [
+            {
+              "url": "/lpc/legs/pants/male/black.png",
+              "zPos": 20
+            }
+          ]
+        },
+        {
+          "id": "legs:legs_pants:muscular:brown",
+          "label": "Pantalón · Brown",
+          "variant": "brown",
+          "bodyType": "muscular",
+          "layers": [
+            {
+              "url": "/lpc/legs/pants/male/brown.png",
+              "zPos": 20
+            }
+          ]
+        },
+        {
+          "id": "legs:legs_pants:muscular:forest",
+          "label": "Pantalón · Forest",
+          "variant": "forest",
+          "bodyType": "muscular",
+          "layers": [
+            {
+              "url": "/lpc/legs/pants/male/forest.png",
+              "zPos": 20
+            }
+          ]
+        },
+        {
+          "id": "legs:legs_pants:muscular:charcoal",
+          "label": "Pantalón · Charcoal",
+          "variant": "charcoal",
+          "bodyType": "muscular",
+          "layers": [
+            {
+              "url": "/lpc/legs/pants/male/charcoal.png",
+              "zPos": 20
+            }
+          ]
+        },
+        {
+          "id": "legs:legs_pants:teen:black",
+          "label": "Pantalón · Black",
+          "variant": "black",
+          "bodyType": "teen",
+          "layers": [
+            {
+              "url": "/lpc/legs/pants/thin/black.png",
+              "zPos": 20
+            }
+          ]
+        },
+        {
+          "id": "legs:legs_pants:teen:brown",
+          "label": "Pantalón · Brown",
+          "variant": "brown",
+          "bodyType": "teen",
+          "layers": [
+            {
+              "url": "/lpc/legs/pants/thin/brown.png",
+              "zPos": 20
+            }
+          ]
+        },
+        {
+          "id": "legs:legs_pants:teen:forest",
+          "label": "Pantalón · Forest",
+          "variant": "forest",
+          "bodyType": "teen",
+          "layers": [
+            {
+              "url": "/lpc/legs/pants/thin/forest.png",
+              "zPos": 20
+            }
+          ]
+        },
+        {
+          "id": "legs:legs_pants:teen:charcoal",
+          "label": "Pantalón · Charcoal",
+          "variant": "charcoal",
+          "bodyType": "teen",
+          "layers": [
+            {
+              "url": "/lpc/legs/pants/thin/charcoal.png",
+              "zPos": 20
+            }
+          ]
+        },
+        {
+          "id": "legs:legs_childpants:child:brown",
+          "label": "Niño · Brown",
+          "variant": "brown",
+          "bodyType": "child",
+          "layers": [
+            {
+              "url": "/lpc/legs/pants/child/brown.png",
+              "zPos": 20
+            }
+          ]
+        },
+        {
+          "id": "legs:legs_childpants:child:green",
+          "label": "Niño · Green",
+          "variant": "green",
+          "bodyType": "child",
+          "layers": [
+            {
+              "url": "/lpc/legs/pants/child/green.png",
+              "zPos": 20
+            }
+          ]
+        },
+        {
+          "id": "legs:legs_childpants:child:darkblue",
+          "label": "Niño · Darkblue",
+          "variant": "darkblue",
+          "bodyType": "child",
+          "layers": [
+            {
+              "url": "/lpc/legs/pants/child/darkblue.png",
+              "zPos": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feet",
+      "name": "Botas",
+      "zPos": 25,
+      "optional": true,
+      "options": [
+        {
+          "id": "feet:feet_boots:male:black",
+          "label": "Black",
+          "variant": "black",
+          "bodyType": "male",
+          "layers": [
+            {
+              "url": "/lpc/feet/boots/male/black.png",
+              "zPos": 25
+            }
+          ]
+        },
+        {
+          "id": "feet:feet_boots:male:brown",
+          "label": "Brown",
+          "variant": "brown",
+          "bodyType": "male",
+          "layers": [
+            {
+              "url": "/lpc/feet/boots/male/brown.png",
+              "zPos": 25
+            }
+          ]
+        },
+        {
+          "id": "feet:feet_boots:male:charcoal",
+          "label": "Charcoal",
+          "variant": "charcoal",
+          "bodyType": "male",
+          "layers": [
+            {
+              "url": "/lpc/feet/boots/male/charcoal.png",
+              "zPos": 25
+            }
+          ]
+        },
+        {
+          "id": "feet:feet_boots:female:black",
+          "label": "Black",
+          "variant": "black",
+          "bodyType": "female",
+          "layers": [
+            {
+              "url": "/lpc/feet/boots/female/black.png",
+              "zPos": 25
+            }
+          ]
+        },
+        {
+          "id": "feet:feet_boots:female:brown",
+          "label": "Brown",
+          "variant": "brown",
+          "bodyType": "female",
+          "layers": [
+            {
+              "url": "/lpc/feet/boots/female/brown.png",
+              "zPos": 25
+            }
+          ]
+        },
+        {
+          "id": "feet:feet_boots:female:charcoal",
+          "label": "Charcoal",
+          "variant": "charcoal",
+          "bodyType": "female",
+          "layers": [
+            {
+              "url": "/lpc/feet/boots/female/charcoal.png",
+              "zPos": 25
+            }
+          ]
+        },
+        {
+          "id": "feet:feet_boots:muscular:black",
+          "label": "Black",
+          "variant": "black",
+          "bodyType": "muscular",
+          "layers": [
+            {
+              "url": "/lpc/feet/boots/male/black.png",
+              "zPos": 25
+            }
+          ]
+        },
+        {
+          "id": "feet:feet_boots:muscular:brown",
+          "label": "Brown",
+          "variant": "brown",
+          "bodyType": "muscular",
+          "layers": [
+            {
+              "url": "/lpc/feet/boots/male/brown.png",
+              "zPos": 25
+            }
+          ]
+        },
+        {
+          "id": "feet:feet_boots:muscular:charcoal",
+          "label": "Charcoal",
+          "variant": "charcoal",
+          "bodyType": "muscular",
+          "layers": [
+            {
+              "url": "/lpc/feet/boots/male/charcoal.png",
+              "zPos": 25
+            }
+          ]
+        },
+        {
+          "id": "feet:feet_boots:teen:black",
+          "label": "Black",
+          "variant": "black",
+          "bodyType": "teen",
+          "layers": [
+            {
+              "url": "/lpc/feet/boots/female/black.png",
+              "zPos": 25
+            }
+          ]
+        },
+        {
+          "id": "feet:feet_boots:teen:brown",
+          "label": "Brown",
+          "variant": "brown",
+          "bodyType": "teen",
+          "layers": [
+            {
+              "url": "/lpc/feet/boots/female/brown.png",
+              "zPos": 25
+            }
+          ]
+        },
+        {
+          "id": "feet:feet_boots:teen:charcoal",
+          "label": "Charcoal",
+          "variant": "charcoal",
+          "bodyType": "teen",
+          "layers": [
+            {
+              "url": "/lpc/feet/boots/female/charcoal.png",
+              "zPos": 25
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "torso",
+      "name": "Torso / Armadura",
+      "zPos": 60,
+      "optional": true,
+      "options": [
+        {
+          "id": "torso:torso_chainmail:male:gray",
+          "label": "Cota de malla · Gray",
+          "variant": "gray",
+          "bodyType": "male",
+          "layers": [
+            {
+              "url": "/lpc/torso/chainmail/male/gray.png",
+              "zPos": 50
+            }
+          ]
+        },
+        {
+          "id": "torso:torso_chainmail:female:gray",
+          "label": "Cota de malla · Gray",
+          "variant": "gray",
+          "bodyType": "female",
+          "layers": [
+            {
+              "url": "/lpc/torso/chainmail/female/gray.png",
+              "zPos": 50
+            }
+          ]
+        },
+        {
+          "id": "torso:torso_chainmail:teen:gray",
+          "label": "Cota de malla · Gray",
+          "variant": "gray",
+          "bodyType": "teen",
+          "layers": [
+            {
+              "url": "/lpc/torso/chainmail/female/gray.png",
+              "zPos": 50
+            }
+          ]
+        },
+        {
+          "id": "torso:torso_armour_plate:male:steel",
+          "label": "Placas · Steel",
+          "variant": "steel",
+          "bodyType": "male",
+          "layers": [
+            {
+              "url": "/lpc/torso/armour/plate/male/steel.png",
+              "zPos": 60
+            }
+          ]
+        },
+        {
+          "id": "torso:torso_armour_plate:male:iron",
+          "label": "Placas · Iron",
+          "variant": "iron",
+          "bodyType": "male",
+          "layers": [
+            {
+              "url": "/lpc/torso/armour/plate/male/iron.png",
+              "zPos": 60
+            }
+          ]
+        },
+        {
+          "id": "torso:torso_armour_plate:male:bronze",
+          "label": "Placas · Bronze",
+          "variant": "bronze",
+          "bodyType": "male",
+          "layers": [
+            {
+              "url": "/lpc/torso/armour/plate/male/bronze.png",
+              "zPos": 60
+            }
+          ]
+        },
+        {
+          "id": "torso:torso_armour_plate:female:steel",
+          "label": "Placas · Steel",
+          "variant": "steel",
+          "bodyType": "female",
+          "layers": [
+            {
+              "url": "/lpc/torso/armour/plate/female/steel.png",
+              "zPos": 60
+            }
+          ]
+        },
+        {
+          "id": "torso:torso_armour_plate:female:iron",
+          "label": "Placas · Iron",
+          "variant": "iron",
+          "bodyType": "female",
+          "layers": [
+            {
+              "url": "/lpc/torso/armour/plate/female/iron.png",
+              "zPos": 60
+            }
+          ]
+        },
+        {
+          "id": "torso:torso_armour_plate:female:bronze",
+          "label": "Placas · Bronze",
+          "variant": "bronze",
+          "bodyType": "female",
+          "layers": [
+            {
+              "url": "/lpc/torso/armour/plate/female/bronze.png",
+              "zPos": 60
+            }
+          ]
+        },
+        {
+          "id": "torso:torso_armour_plate:teen:steel",
+          "label": "Placas · Steel",
+          "variant": "steel",
+          "bodyType": "teen",
+          "layers": [
+            {
+              "url": "/lpc/torso/armour/plate/teen/steel.png",
+              "zPos": 60
+            }
+          ]
+        },
+        {
+          "id": "torso:torso_armour_plate:teen:iron",
+          "label": "Placas · Iron",
+          "variant": "iron",
+          "bodyType": "teen",
+          "layers": [
+            {
+              "url": "/lpc/torso/armour/plate/teen/iron.png",
+              "zPos": 60
+            }
+          ]
+        },
+        {
+          "id": "torso:torso_armour_plate:teen:bronze",
+          "label": "Placas · Bronze",
+          "variant": "bronze",
+          "bodyType": "teen",
+          "layers": [
+            {
+              "url": "/lpc/torso/armour/plate/teen/bronze.png",
+              "zPos": 60
+            }
+          ]
+        },
+        {
+          "id": "torso:torso_armour_leather:male:brown",
+          "label": "Cuero · Brown",
+          "variant": "brown",
+          "bodyType": "male",
+          "layers": [
+            {
+              "url": "/lpc/torso/armour/leather/male/brown.png",
+              "zPos": 60
+            }
+          ]
+        },
+        {
+          "id": "torso:torso_armour_leather:male:black",
+          "label": "Cuero · Black",
+          "variant": "black",
+          "bodyType": "male",
+          "layers": [
+            {
+              "url": "/lpc/torso/armour/leather/male/black.png",
+              "zPos": 60
+            }
+          ]
+        },
+        {
+          "id": "torso:torso_armour_leather:female:brown",
+          "label": "Cuero · Brown",
+          "variant": "brown",
+          "bodyType": "female",
+          "layers": [
+            {
+              "url": "/lpc/torso/armour/leather/female/brown.png",
+              "zPos": 60
+            }
+          ]
+        },
+        {
+          "id": "torso:torso_armour_leather:female:black",
+          "label": "Cuero · Black",
+          "variant": "black",
+          "bodyType": "female",
+          "layers": [
+            {
+              "url": "/lpc/torso/armour/leather/female/black.png",
+              "zPos": 60
+            }
+          ]
+        },
+        {
+          "id": "torso:torso_armour_leather:teen:brown",
+          "label": "Cuero · Brown",
+          "variant": "brown",
+          "bodyType": "teen",
+          "layers": [
+            {
+              "url": "/lpc/torso/armour/leather/male/brown.png",
+              "zPos": 60
+            }
+          ]
+        },
+        {
+          "id": "torso:torso_armour_leather:teen:black",
+          "label": "Cuero · Black",
+          "variant": "black",
+          "bodyType": "teen",
+          "layers": [
+            {
+              "url": "/lpc/torso/armour/leather/male/black.png",
+              "zPos": 60
+            }
+          ]
+        },
+        {
+          "id": "torso:torso_clothes_longsleeve:male:purple",
+          "label": "Túnica · Purple",
+          "variant": "purple",
+          "bodyType": "male",
+          "layers": [
+            {
+              "url": "/lpc/torso/clothes/longsleeve/longsleeve/male/purple.png",
+              "zPos": 35
+            }
+          ]
+        },
+        {
+          "id": "torso:torso_clothes_longsleeve:male:forest",
+          "label": "Túnica · Forest",
+          "variant": "forest",
+          "bodyType": "male",
+          "layers": [
+            {
+              "url": "/lpc/torso/clothes/longsleeve/longsleeve/male/forest.png",
+              "zPos": 35
+            }
+          ]
+        },
+        {
+          "id": "torso:torso_clothes_longsleeve:male:navy",
+          "label": "Túnica · Navy",
+          "variant": "navy",
+          "bodyType": "male",
+          "layers": [
+            {
+              "url": "/lpc/torso/clothes/longsleeve/longsleeve/male/navy.png",
+              "zPos": 35
+            }
+          ]
+        },
+        {
+          "id": "torso:torso_clothes_longsleeve:male:maroon",
+          "label": "Túnica · Maroon",
+          "variant": "maroon",
+          "bodyType": "male",
+          "layers": [
+            {
+              "url": "/lpc/torso/clothes/longsleeve/longsleeve/male/maroon.png",
+              "zPos": 35
+            }
+          ]
+        },
+        {
+          "id": "torso:torso_clothes_longsleeve:male:gray",
+          "label": "Túnica · Gray",
+          "variant": "gray",
+          "bodyType": "male",
+          "layers": [
+            {
+              "url": "/lpc/torso/clothes/longsleeve/longsleeve/male/gray.png",
+              "zPos": 35
+            }
+          ]
+        },
+        {
+          "id": "torso:torso_clothes_longsleeve:male:white",
+          "label": "Túnica · White",
+          "variant": "white",
+          "bodyType": "male",
+          "layers": [
+            {
+              "url": "/lpc/torso/clothes/longsleeve/longsleeve/male/white.png",
+              "zPos": 35
+            }
+          ]
+        },
+        {
+          "id": "torso:torso_clothes_longsleeve:male:black",
+          "label": "Túnica · Black",
+          "variant": "black",
+          "bodyType": "male",
+          "layers": [
+            {
+              "url": "/lpc/torso/clothes/longsleeve/longsleeve/male/black.png",
+              "zPos": 35
+            }
+          ]
+        },
+        {
+          "id": "torso:torso_clothes_longsleeve:female:purple",
+          "label": "Túnica · Purple",
+          "variant": "purple",
+          "bodyType": "female",
+          "layers": [
+            {
+              "url": "/lpc/torso/clothes/longsleeve/longsleeve/female/purple.png",
+              "zPos": 35
+            }
+          ]
+        },
+        {
+          "id": "torso:torso_clothes_longsleeve:female:forest",
+          "label": "Túnica · Forest",
+          "variant": "forest",
+          "bodyType": "female",
+          "layers": [
+            {
+              "url": "/lpc/torso/clothes/longsleeve/longsleeve/female/forest.png",
+              "zPos": 35
+            }
+          ]
+        },
+        {
+          "id": "torso:torso_clothes_longsleeve:female:navy",
+          "label": "Túnica · Navy",
+          "variant": "navy",
+          "bodyType": "female",
+          "layers": [
+            {
+              "url": "/lpc/torso/clothes/longsleeve/longsleeve/female/navy.png",
+              "zPos": 35
+            }
+          ]
+        },
+        {
+          "id": "torso:torso_clothes_longsleeve:female:maroon",
+          "label": "Túnica · Maroon",
+          "variant": "maroon",
+          "bodyType": "female",
+          "layers": [
+            {
+              "url": "/lpc/torso/clothes/longsleeve/longsleeve/female/maroon.png",
+              "zPos": 35
+            }
+          ]
+        },
+        {
+          "id": "torso:torso_clothes_longsleeve:female:gray",
+          "label": "Túnica · Gray",
+          "variant": "gray",
+          "bodyType": "female",
+          "layers": [
+            {
+              "url": "/lpc/torso/clothes/longsleeve/longsleeve/female/gray.png",
+              "zPos": 35
+            }
+          ]
+        },
+        {
+          "id": "torso:torso_clothes_longsleeve:female:white",
+          "label": "Túnica · White",
+          "variant": "white",
+          "bodyType": "female",
+          "layers": [
+            {
+              "url": "/lpc/torso/clothes/longsleeve/longsleeve/female/white.png",
+              "zPos": 35
+            }
+          ]
+        },
+        {
+          "id": "torso:torso_clothes_longsleeve:female:black",
+          "label": "Túnica · Black",
+          "variant": "black",
+          "bodyType": "female",
+          "layers": [
+            {
+              "url": "/lpc/torso/clothes/longsleeve/longsleeve/female/black.png",
+              "zPos": 35
+            }
+          ]
+        },
+        {
+          "id": "torso:torso_clothes_longsleeve:teen:purple",
+          "label": "Túnica · Purple",
+          "variant": "purple",
+          "bodyType": "teen",
+          "layers": [
+            {
+              "url": "/lpc/torso/clothes/longsleeve/longsleeve/teen/purple.png",
+              "zPos": 35
+            }
+          ]
+        },
+        {
+          "id": "torso:torso_clothes_longsleeve:teen:forest",
+          "label": "Túnica · Forest",
+          "variant": "forest",
+          "bodyType": "teen",
+          "layers": [
+            {
+              "url": "/lpc/torso/clothes/longsleeve/longsleeve/teen/forest.png",
+              "zPos": 35
+            }
+          ]
+        },
+        {
+          "id": "torso:torso_clothes_longsleeve:teen:navy",
+          "label": "Túnica · Navy",
+          "variant": "navy",
+          "bodyType": "teen",
+          "layers": [
+            {
+              "url": "/lpc/torso/clothes/longsleeve/longsleeve/teen/navy.png",
+              "zPos": 35
+            }
+          ]
+        },
+        {
+          "id": "torso:torso_clothes_longsleeve:teen:maroon",
+          "label": "Túnica · Maroon",
+          "variant": "maroon",
+          "bodyType": "teen",
+          "layers": [
+            {
+              "url": "/lpc/torso/clothes/longsleeve/longsleeve/teen/maroon.png",
+              "zPos": 35
+            }
+          ]
+        },
+        {
+          "id": "torso:torso_clothes_longsleeve:teen:gray",
+          "label": "Túnica · Gray",
+          "variant": "gray",
+          "bodyType": "teen",
+          "layers": [
+            {
+              "url": "/lpc/torso/clothes/longsleeve/longsleeve/teen/gray.png",
+              "zPos": 35
+            }
+          ]
+        },
+        {
+          "id": "torso:torso_clothes_longsleeve:teen:white",
+          "label": "Túnica · White",
+          "variant": "white",
+          "bodyType": "teen",
+          "layers": [
+            {
+              "url": "/lpc/torso/clothes/longsleeve/longsleeve/teen/white.png",
+              "zPos": 35
+            }
+          ]
+        },
+        {
+          "id": "torso:torso_clothes_longsleeve:teen:black",
+          "label": "Túnica · Black",
+          "variant": "black",
+          "bodyType": "teen",
+          "layers": [
+            {
+              "url": "/lpc/torso/clothes/longsleeve/longsleeve/teen/black.png",
+              "zPos": 35
+            }
+          ]
+        },
+        {
+          "id": "torso:torso_clothes_child_shirt:child:brown",
+          "label": "Camisa · Brown",
+          "variant": "brown",
+          "bodyType": "child",
+          "layers": [
+            {
+              "url": "/lpc/torso/clothes/shirt/child/brown.png",
+              "zPos": 35
+            }
+          ]
+        },
+        {
+          "id": "torso:torso_clothes_child_shirt:child:green",
+          "label": "Camisa · Green",
+          "variant": "green",
+          "bodyType": "child",
+          "layers": [
+            {
+              "url": "/lpc/torso/clothes/shirt/child/green.png",
+              "zPos": 35
+            }
+          ]
+        },
+        {
+          "id": "torso:torso_clothes_child_shirt:child:blue",
+          "label": "Camisa · Blue",
+          "variant": "blue",
+          "bodyType": "child",
+          "layers": [
+            {
+              "url": "/lpc/torso/clothes/shirt/child/blue.png",
+              "zPos": 35
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cape",
+      "name": "Capa",
+      "zPos": 85,
+      "optional": true,
+      "options": [
+        {
+          "id": "cape:cape_solid:male:gray",
+          "label": "Capa · Gray",
+          "variant": "gray",
+          "bodyType": "male",
+          "layers": [
+            {
+              "url": "/lpc/cape/solid_behind/gray.png",
+              "zPos": 5
+            },
+            {
+              "url": "/lpc/cape/solid/female/gray.png",
+              "zPos": 85
+            }
+          ]
+        },
+        {
+          "id": "cape:cape_solid:male:charcoal",
+          "label": "Capa · Charcoal",
+          "variant": "charcoal",
+          "bodyType": "male",
+          "layers": [
+            {
+              "url": "/lpc/cape/solid_behind/charcoal.png",
+              "zPos": 5
+            },
+            {
+              "url": "/lpc/cape/solid/female/charcoal.png",
+              "zPos": 85
+            }
+          ]
+        },
+        {
+          "id": "cape:cape_solid:male:forest",
+          "label": "Capa · Forest",
+          "variant": "forest",
+          "bodyType": "male",
+          "layers": [
+            {
+              "url": "/lpc/cape/solid_behind/forest.png",
+              "zPos": 5
+            },
+            {
+              "url": "/lpc/cape/solid/female/forest.png",
+              "zPos": 85
+            }
+          ]
+        },
+        {
+          "id": "cape:cape_solid:male:red",
+          "label": "Capa · Red",
+          "variant": "red",
+          "bodyType": "male",
+          "layers": [
+            {
+              "url": "/lpc/cape/solid_behind/red.png",
+              "zPos": 5
+            },
+            {
+              "url": "/lpc/cape/solid/female/red.png",
+              "zPos": 85
+            }
+          ]
+        },
+        {
+          "id": "cape:cape_solid:male:white",
+          "label": "Capa · White",
+          "variant": "white",
+          "bodyType": "male",
+          "layers": [
+            {
+              "url": "/lpc/cape/solid_behind/white.png",
+              "zPos": 5
+            },
+            {
+              "url": "/lpc/cape/solid/female/white.png",
+              "zPos": 85
+            }
+          ]
+        },
+        {
+          "id": "cape:cape_solid:male:black",
+          "label": "Capa · Black",
+          "variant": "black",
+          "bodyType": "male",
+          "layers": [
+            {
+              "url": "/lpc/cape/solid_behind/black.png",
+              "zPos": 5
+            },
+            {
+              "url": "/lpc/cape/solid/female/black.png",
+              "zPos": 85
+            }
+          ]
+        },
+        {
+          "id": "cape:cape_solid:female:gray",
+          "label": "Capa · Gray",
+          "variant": "gray",
+          "bodyType": "female",
+          "layers": [
+            {
+              "url": "/lpc/cape/solid_behind/gray.png",
+              "zPos": 5
+            },
+            {
+              "url": "/lpc/cape/solid/female/gray.png",
+              "zPos": 85
+            }
+          ]
+        },
+        {
+          "id": "cape:cape_solid:female:charcoal",
+          "label": "Capa · Charcoal",
+          "variant": "charcoal",
+          "bodyType": "female",
+          "layers": [
+            {
+              "url": "/lpc/cape/solid_behind/charcoal.png",
+              "zPos": 5
+            },
+            {
+              "url": "/lpc/cape/solid/female/charcoal.png",
+              "zPos": 85
+            }
+          ]
+        },
+        {
+          "id": "cape:cape_solid:female:forest",
+          "label": "Capa · Forest",
+          "variant": "forest",
+          "bodyType": "female",
+          "layers": [
+            {
+              "url": "/lpc/cape/solid_behind/forest.png",
+              "zPos": 5
+            },
+            {
+              "url": "/lpc/cape/solid/female/forest.png",
+              "zPos": 85
+            }
+          ]
+        },
+        {
+          "id": "cape:cape_solid:female:red",
+          "label": "Capa · Red",
+          "variant": "red",
+          "bodyType": "female",
+          "layers": [
+            {
+              "url": "/lpc/cape/solid_behind/red.png",
+              "zPos": 5
+            },
+            {
+              "url": "/lpc/cape/solid/female/red.png",
+              "zPos": 85
+            }
+          ]
+        },
+        {
+          "id": "cape:cape_solid:female:white",
+          "label": "Capa · White",
+          "variant": "white",
+          "bodyType": "female",
+          "layers": [
+            {
+              "url": "/lpc/cape/solid_behind/white.png",
+              "zPos": 5
+            },
+            {
+              "url": "/lpc/cape/solid/female/white.png",
+              "zPos": 85
+            }
+          ]
+        },
+        {
+          "id": "cape:cape_solid:female:black",
+          "label": "Capa · Black",
+          "variant": "black",
+          "bodyType": "female",
+          "layers": [
+            {
+              "url": "/lpc/cape/solid_behind/black.png",
+              "zPos": 5
+            },
+            {
+              "url": "/lpc/cape/solid/female/black.png",
+              "zPos": 85
+            }
+          ]
+        },
+        {
+          "id": "cape:cape_solid:muscular:gray",
+          "label": "Capa · Gray",
+          "variant": "gray",
+          "bodyType": "muscular",
+          "layers": [
+            {
+              "url": "/lpc/cape/solid_behind/gray.png",
+              "zPos": 5
+            },
+            {
+              "url": "/lpc/cape/solid/female/gray.png",
+              "zPos": 85
+            }
+          ]
+        },
+        {
+          "id": "cape:cape_solid:muscular:charcoal",
+          "label": "Capa · Charcoal",
+          "variant": "charcoal",
+          "bodyType": "muscular",
+          "layers": [
+            {
+              "url": "/lpc/cape/solid_behind/charcoal.png",
+              "zPos": 5
+            },
+            {
+              "url": "/lpc/cape/solid/female/charcoal.png",
+              "zPos": 85
+            }
+          ]
+        },
+        {
+          "id": "cape:cape_solid:muscular:forest",
+          "label": "Capa · Forest",
+          "variant": "forest",
+          "bodyType": "muscular",
+          "layers": [
+            {
+              "url": "/lpc/cape/solid_behind/forest.png",
+              "zPos": 5
+            },
+            {
+              "url": "/lpc/cape/solid/female/forest.png",
+              "zPos": 85
+            }
+          ]
+        },
+        {
+          "id": "cape:cape_solid:muscular:red",
+          "label": "Capa · Red",
+          "variant": "red",
+          "bodyType": "muscular",
+          "layers": [
+            {
+              "url": "/lpc/cape/solid_behind/red.png",
+              "zPos": 5
+            },
+            {
+              "url": "/lpc/cape/solid/female/red.png",
+              "zPos": 85
+            }
+          ]
+        },
+        {
+          "id": "cape:cape_solid:muscular:white",
+          "label": "Capa · White",
+          "variant": "white",
+          "bodyType": "muscular",
+          "layers": [
+            {
+              "url": "/lpc/cape/solid_behind/white.png",
+              "zPos": 5
+            },
+            {
+              "url": "/lpc/cape/solid/female/white.png",
+              "zPos": 85
+            }
+          ]
+        },
+        {
+          "id": "cape:cape_solid:muscular:black",
+          "label": "Capa · Black",
+          "variant": "black",
+          "bodyType": "muscular",
+          "layers": [
+            {
+              "url": "/lpc/cape/solid_behind/black.png",
+              "zPos": 5
+            },
+            {
+              "url": "/lpc/cape/solid/female/black.png",
+              "zPos": 85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "head",
+      "name": "Cabeza",
+      "zPos": 100,
+      "optional": false,
+      "options": [
+        {
+          "id": "head:heads_human_male:male:light",
+          "label": "Humano · Light",
+          "variant": "light",
+          "bodyType": "male",
+          "layers": [
+            {
+              "url": "/lpc/head/heads/human/male/light.png",
+              "zPos": 100
+            }
+          ]
+        },
+        {
+          "id": "head:heads_human_male:male:olive",
+          "label": "Humano · Olive",
+          "variant": "olive",
+          "bodyType": "male",
+          "layers": [
+            {
+              "url": "/lpc/head/heads/human/male/olive.png",
+              "zPos": 100
+            }
+          ]
+        },
+        {
+          "id": "head:heads_human_male:male:bronze",
+          "label": "Humano · Bronze",
+          "variant": "bronze",
+          "bodyType": "male",
+          "layers": [
+            {
+              "url": "/lpc/head/heads/human/male/bronze.png",
+              "zPos": 100
+            }
+          ]
+        },
+        {
+          "id": "head:heads_human_male:male:brown",
+          "label": "Humano · Brown",
+          "variant": "brown",
+          "bodyType": "male",
+          "layers": [
+            {
+              "url": "/lpc/head/heads/human/male/brown.png",
+              "zPos": 100
+            }
+          ]
+        },
+        {
+          "id": "head:heads_human_male:male:black",
+          "label": "Humano · Black",
+          "variant": "black",
+          "bodyType": "male",
+          "layers": [
+            {
+              "url": "/lpc/head/heads/human/male/black.png",
+              "zPos": 100
+            }
+          ]
+        },
+        {
+          "id": "head:heads_human_male:muscular:light",
+          "label": "Humano · Light",
+          "variant": "light",
+          "bodyType": "muscular",
+          "layers": [
+            {
+              "url": "/lpc/head/heads/human/male/light.png",
+              "zPos": 100
+            }
+          ]
+        },
+        {
+          "id": "head:heads_human_male:muscular:olive",
+          "label": "Humano · Olive",
+          "variant": "olive",
+          "bodyType": "muscular",
+          "layers": [
+            {
+              "url": "/lpc/head/heads/human/male/olive.png",
+              "zPos": 100
+            }
+          ]
+        },
+        {
+          "id": "head:heads_human_male:muscular:bronze",
+          "label": "Humano · Bronze",
+          "variant": "bronze",
+          "bodyType": "muscular",
+          "layers": [
+            {
+              "url": "/lpc/head/heads/human/male/bronze.png",
+              "zPos": 100
+            }
+          ]
+        },
+        {
+          "id": "head:heads_human_male:muscular:brown",
+          "label": "Humano · Brown",
+          "variant": "brown",
+          "bodyType": "muscular",
+          "layers": [
+            {
+              "url": "/lpc/head/heads/human/male/brown.png",
+              "zPos": 100
+            }
+          ]
+        },
+        {
+          "id": "head:heads_human_male:muscular:black",
+          "label": "Humano · Black",
+          "variant": "black",
+          "bodyType": "muscular",
+          "layers": [
+            {
+              "url": "/lpc/head/heads/human/male/black.png",
+              "zPos": 100
+            }
+          ]
+        },
+        {
+          "id": "head:heads_human_male:teen:light",
+          "label": "Humano · Light",
+          "variant": "light",
+          "bodyType": "teen",
+          "layers": [
+            {
+              "url": "/lpc/head/heads/human/male/light.png",
+              "zPos": 100
+            }
+          ]
+        },
+        {
+          "id": "head:heads_human_male:teen:olive",
+          "label": "Humano · Olive",
+          "variant": "olive",
+          "bodyType": "teen",
+          "layers": [
+            {
+              "url": "/lpc/head/heads/human/male/olive.png",
+              "zPos": 100
+            }
+          ]
+        },
+        {
+          "id": "head:heads_human_male:teen:bronze",
+          "label": "Humano · Bronze",
+          "variant": "bronze",
+          "bodyType": "teen",
+          "layers": [
+            {
+              "url": "/lpc/head/heads/human/male/bronze.png",
+              "zPos": 100
+            }
+          ]
+        },
+        {
+          "id": "head:heads_human_male:teen:brown",
+          "label": "Humano · Brown",
+          "variant": "brown",
+          "bodyType": "teen",
+          "layers": [
+            {
+              "url": "/lpc/head/heads/human/male/brown.png",
+              "zPos": 100
+            }
+          ]
+        },
+        {
+          "id": "head:heads_human_male:teen:black",
+          "label": "Humano · Black",
+          "variant": "black",
+          "bodyType": "teen",
+          "layers": [
+            {
+              "url": "/lpc/head/heads/human/male/black.png",
+              "zPos": 100
+            }
+          ]
+        },
+        {
+          "id": "head:heads_human_female:female:light",
+          "label": "Humana · Light",
+          "variant": "light",
+          "bodyType": "female",
+          "layers": [
+            {
+              "url": "/lpc/head/heads/human/female/light.png",
+              "zPos": 100
+            }
+          ]
+        },
+        {
+          "id": "head:heads_human_female:female:olive",
+          "label": "Humana · Olive",
+          "variant": "olive",
+          "bodyType": "female",
+          "layers": [
+            {
+              "url": "/lpc/head/heads/human/female/olive.png",
+              "zPos": 100
+            }
+          ]
+        },
+        {
+          "id": "head:heads_human_female:female:bronze",
+          "label": "Humana · Bronze",
+          "variant": "bronze",
+          "bodyType": "female",
+          "layers": [
+            {
+              "url": "/lpc/head/heads/human/female/bronze.png",
+              "zPos": 100
+            }
+          ]
+        },
+        {
+          "id": "head:heads_human_female:female:brown",
+          "label": "Humana · Brown",
+          "variant": "brown",
+          "bodyType": "female",
+          "layers": [
+            {
+              "url": "/lpc/head/heads/human/female/brown.png",
+              "zPos": 100
+            }
+          ]
+        },
+        {
+          "id": "head:heads_human_child:child:light",
+          "label": "Niño · Light",
+          "variant": "light",
+          "bodyType": "child",
+          "layers": [
+            {
+              "url": "/lpc/head/heads/human/child/light.png",
+              "zPos": 100
+            }
+          ]
+        },
+        {
+          "id": "head:heads_human_child:child:olive",
+          "label": "Niño · Olive",
+          "variant": "olive",
+          "bodyType": "child",
+          "layers": [
+            {
+              "url": "/lpc/head/heads/human/child/olive.png",
+              "zPos": 100
+            }
+          ]
+        },
+        {
+          "id": "head:heads_human_child:child:bronze",
+          "label": "Niño · Bronze",
+          "variant": "bronze",
+          "bodyType": "child",
+          "layers": [
+            {
+              "url": "/lpc/head/heads/human/child/bronze.png",
+              "zPos": 100
+            }
+          ]
+        },
+        {
+          "id": "head:heads_human_child:child:brown",
+          "label": "Niño · Brown",
+          "variant": "brown",
+          "bodyType": "child",
+          "layers": [
+            {
+              "url": "/lpc/head/heads/human/child/brown.png",
+              "zPos": 100
+            }
+          ]
+        },
+        {
+          "id": "head:heads_human_male_gaunt:male:light",
+          "label": "Demacrado · Light",
+          "variant": "light",
+          "bodyType": "male",
+          "layers": [
+            {
+              "url": "/lpc/head/heads/human/male_gaunt/light.png",
+              "zPos": 100
+            }
+          ]
+        },
+        {
+          "id": "head:heads_human_male_gaunt:male:olive",
+          "label": "Demacrado · Olive",
+          "variant": "olive",
+          "bodyType": "male",
+          "layers": [
+            {
+              "url": "/lpc/head/heads/human/male_gaunt/olive.png",
+              "zPos": 100
+            }
+          ]
+        },
+        {
+          "id": "head:heads_human_male_gaunt:male:black",
+          "label": "Demacrado · Black",
+          "variant": "black",
+          "bodyType": "male",
+          "layers": [
+            {
+              "url": "/lpc/head/heads/human/male_gaunt/black.png",
+              "zPos": 100
+            }
+          ]
+        },
+        {
+          "id": "head:heads_human_male_gaunt:teen:light",
+          "label": "Demacrado · Light",
+          "variant": "light",
+          "bodyType": "teen",
+          "layers": [
+            {
+              "url": "/lpc/head/heads/human/male_gaunt/light.png",
+              "zPos": 100
+            }
+          ]
+        },
+        {
+          "id": "head:heads_human_male_gaunt:teen:olive",
+          "label": "Demacrado · Olive",
+          "variant": "olive",
+          "bodyType": "teen",
+          "layers": [
+            {
+              "url": "/lpc/head/heads/human/male_gaunt/olive.png",
+              "zPos": 100
+            }
+          ]
+        },
+        {
+          "id": "head:heads_human_male_gaunt:teen:black",
+          "label": "Demacrado · Black",
+          "variant": "black",
+          "bodyType": "teen",
+          "layers": [
+            {
+              "url": "/lpc/head/heads/human/male_gaunt/black.png",
+              "zPos": 100
+            }
+          ]
+        },
+        {
+          "id": "head:heads_orc_male:male:dark_green",
+          "label": "Orco · Dark_green",
+          "variant": "dark_green",
+          "bodyType": "male",
+          "layers": [
+            {
+              "url": "/lpc/head/heads/orc/male/dark_green.png",
+              "zPos": 100
+            }
+          ]
+        },
+        {
+          "id": "head:heads_orc_male:male:green",
+          "label": "Orco · Green",
+          "variant": "green",
+          "bodyType": "male",
+          "layers": [
+            {
+              "url": "/lpc/head/heads/orc/male/green.png",
+              "zPos": 100
+            }
+          ]
+        },
+        {
+          "id": "head:heads_orc_male:male:black",
+          "label": "Orco · Black",
+          "variant": "black",
+          "bodyType": "male",
+          "layers": [
+            {
+              "url": "/lpc/head/heads/orc/male/black.png",
+              "zPos": 100
+            }
+          ]
+        },
+        {
+          "id": "head:heads_orc_male:muscular:dark_green",
+          "label": "Orco · Dark_green",
+          "variant": "dark_green",
+          "bodyType": "muscular",
+          "layers": [
+            {
+              "url": "/lpc/head/heads/orc/male/dark_green.png",
+              "zPos": 100
+            }
+          ]
+        },
+        {
+          "id": "head:heads_orc_male:muscular:green",
+          "label": "Orco · Green",
+          "variant": "green",
+          "bodyType": "muscular",
+          "layers": [
+            {
+              "url": "/lpc/head/heads/orc/male/green.png",
+              "zPos": 100
+            }
+          ]
+        },
+        {
+          "id": "head:heads_orc_male:muscular:black",
+          "label": "Orco · Black",
+          "variant": "black",
+          "bodyType": "muscular",
+          "layers": [
+            {
+              "url": "/lpc/head/heads/orc/male/black.png",
+              "zPos": 100
+            }
+          ]
+        },
+        {
+          "id": "head:heads_orc_male:teen:dark_green",
+          "label": "Orco · Dark_green",
+          "variant": "dark_green",
+          "bodyType": "teen",
+          "layers": [
+            {
+              "url": "/lpc/head/heads/orc/male/dark_green.png",
+              "zPos": 100
+            }
+          ]
+        },
+        {
+          "id": "head:heads_orc_male:teen:green",
+          "label": "Orco · Green",
+          "variant": "green",
+          "bodyType": "teen",
+          "layers": [
+            {
+              "url": "/lpc/head/heads/orc/male/green.png",
+              "zPos": 100
+            }
+          ]
+        },
+        {
+          "id": "head:heads_orc_male:teen:black",
+          "label": "Orco · Black",
+          "variant": "black",
+          "bodyType": "teen",
+          "layers": [
+            {
+              "url": "/lpc/head/heads/orc/male/black.png",
+              "zPos": 100
+            }
+          ]
+        },
+        {
+          "id": "head:heads_goblin:male:green",
+          "label": "Trasgo · Green",
+          "variant": "green",
+          "bodyType": "male",
+          "layers": [
+            {
+              "url": "/lpc/head/heads/goblin/adult/green.png",
+              "zPos": 100
+            }
+          ]
+        },
+        {
+          "id": "head:heads_goblin:male:dark_green",
+          "label": "Trasgo · Dark_green",
+          "variant": "dark_green",
+          "bodyType": "male",
+          "layers": [
+            {
+              "url": "/lpc/head/heads/goblin/adult/dark_green.png",
+              "zPos": 100
+            }
+          ]
+        },
+        {
+          "id": "head:heads_goblin:male:olive",
+          "label": "Trasgo · Olive",
+          "variant": "olive",
+          "bodyType": "male",
+          "layers": [
+            {
+              "url": "/lpc/head/heads/goblin/adult/olive.png",
+              "zPos": 100
+            }
+          ]
+        },
+        {
+          "id": "head:heads_goblin:teen:green",
+          "label": "Trasgo · Green",
+          "variant": "green",
+          "bodyType": "teen",
+          "layers": [
+            {
+              "url": "/lpc/head/heads/goblin/adult/green.png",
+              "zPos": 100
+            }
+          ]
+        },
+        {
+          "id": "head:heads_goblin:teen:dark_green",
+          "label": "Trasgo · Dark_green",
+          "variant": "dark_green",
+          "bodyType": "teen",
+          "layers": [
+            {
+              "url": "/lpc/head/heads/goblin/adult/dark_green.png",
+              "zPos": 100
+            }
+          ]
+        },
+        {
+          "id": "head:heads_goblin:teen:olive",
+          "label": "Trasgo · Olive",
+          "variant": "olive",
+          "bodyType": "teen",
+          "layers": [
+            {
+              "url": "/lpc/head/heads/goblin/adult/olive.png",
+              "zPos": 100
+            }
+          ]
+        },
+        {
+          "id": "head:heads_troll:muscular:green",
+          "label": "Troll · Green",
+          "variant": "green",
+          "bodyType": "muscular",
+          "layers": [
+            {
+              "url": "/lpc/head/heads/troll/adult/green.png",
+              "zPos": 100
+            }
+          ]
+        },
+        {
+          "id": "head:heads_troll:muscular:dark_green",
+          "label": "Troll · Dark_green",
+          "variant": "dark_green",
+          "bodyType": "muscular",
+          "layers": [
+            {
+              "url": "/lpc/head/heads/troll/adult/dark_green.png",
+              "zPos": 100
+            }
+          ]
+        },
+        {
+          "id": "head:heads_troll:male:green",
+          "label": "Troll · Green",
+          "variant": "green",
+          "bodyType": "male",
+          "layers": [
+            {
+              "url": "/lpc/head/heads/troll/adult/green.png",
+              "zPos": 100
+            }
+          ]
+        },
+        {
+          "id": "head:heads_troll:male:dark_green",
+          "label": "Troll · Dark_green",
+          "variant": "dark_green",
+          "bodyType": "male",
+          "layers": [
+            {
+              "url": "/lpc/head/heads/troll/adult/dark_green.png",
+              "zPos": 100
+            }
+          ]
+        },
+        {
+          "id": "head:heads_skeleton:male:skeleton",
+          "label": "Esqueleto · Skeleton",
+          "variant": "skeleton",
+          "bodyType": "male",
+          "layers": [
+            {
+              "url": "/lpc/head/heads/skeleton/adult/skeleton.png",
+              "zPos": 100
+            }
+          ]
+        },
+        {
+          "id": "head:heads_skeleton:female:skeleton",
+          "label": "Esqueleto · Skeleton",
+          "variant": "skeleton",
+          "bodyType": "female",
+          "layers": [
+            {
+              "url": "/lpc/head/heads/skeleton/adult/skeleton.png",
+              "zPos": 100
+            }
+          ]
+        },
+        {
+          "id": "head:heads_zombie:male:zombie_green",
+          "label": "Zombie · Zombie_green",
+          "variant": "zombie_green",
+          "bodyType": "male",
+          "layers": [
+            {
+              "url": "/lpc/head/heads/zombie/adult/zombie_green.png",
+              "zPos": 100
+            }
+          ]
+        },
+        {
+          "id": "head:heads_zombie:female:zombie_green",
+          "label": "Zombie · Zombie_green",
+          "variant": "zombie_green",
+          "bodyType": "female",
+          "layers": [
+            {
+              "url": "/lpc/head/heads/zombie/adult/zombie_green.png",
+              "zPos": 100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "eyes",
+      "name": "Ojos",
+      "zPos": 105,
+      "optional": true,
+      "options": [
+        {
+          "id": "eyes:eyes:male:blue",
+          "label": "Blue",
+          "variant": "blue",
+          "bodyType": null,
+          "layers": [
+            {
+              "url": "/lpc/eyes/human/adult/blue.png",
+              "zPos": 105
+            }
+          ]
+        },
+        {
+          "id": "eyes:eyes:male:brown",
+          "label": "Brown",
+          "variant": "brown",
+          "bodyType": null,
+          "layers": [
+            {
+              "url": "/lpc/eyes/human/adult/brown.png",
+              "zPos": 105
+            }
+          ]
+        },
+        {
+          "id": "eyes:eyes:male:green",
+          "label": "Green",
+          "variant": "green",
+          "bodyType": null,
+          "layers": [
+            {
+              "url": "/lpc/eyes/human/adult/green.png",
+              "zPos": 105
+            }
+          ]
+        },
+        {
+          "id": "eyes:eyes:male:gray",
+          "label": "Gray",
+          "variant": "gray",
+          "bodyType": null,
+          "layers": [
+            {
+              "url": "/lpc/eyes/human/adult/gray.png",
+              "zPos": 105
+            }
+          ]
+        },
+        {
+          "id": "eyes:eyes:male:red",
+          "label": "Red",
+          "variant": "red",
+          "bodyType": null,
+          "layers": [
+            {
+              "url": "/lpc/eyes/human/adult/red.png",
+              "zPos": 105
+            }
+          ]
+        },
+        {
+          "id": "eyes:eyes:male:yellow",
+          "label": "Yellow",
+          "variant": "yellow",
+          "bodyType": null,
+          "layers": [
+            {
+              "url": "/lpc/eyes/human/adult/yellow.png",
+              "zPos": 105
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "beard",
+      "name": "Barba",
+      "zPos": 110,
+      "optional": true,
+      "options": [
+        {
+          "id": "beard:beards_winter:male:white",
+          "label": "Larga · White",
+          "variant": "white",
+          "bodyType": null,
+          "layers": [
+            {
+              "url": "/lpc/beards/beard/winter/male/white.png",
+              "zPos": 110
+            }
+          ]
+        },
+        {
+          "id": "beard:beards_winter:male:gray",
+          "label": "Larga · Gray",
+          "variant": "gray",
+          "bodyType": null,
+          "layers": [
+            {
+              "url": "/lpc/beards/beard/winter/male/gray.png",
+              "zPos": 110
+            }
+          ]
+        },
+        {
+          "id": "beard:beards_medium:male:redhead",
+          "label": "Media · Redhead",
+          "variant": "redhead",
+          "bodyType": null,
+          "layers": [
+            {
+              "url": "/lpc/beards/beard/medium/redhead.png",
+              "zPos": 110
+            }
+          ]
+        },
+        {
+          "id": "beard:beards_medium:male:chestnut",
+          "label": "Media · Chestnut",
+          "variant": "chestnut",
+          "bodyType": null,
+          "layers": [
+            {
+              "url": "/lpc/beards/beard/medium/chestnut.png",
+              "zPos": 110
+            }
+          ]
+        },
+        {
+          "id": "beard:beards_medium:male:black",
+          "label": "Media · Black",
+          "variant": "black",
+          "bodyType": null,
+          "layers": [
+            {
+              "url": "/lpc/beards/beard/medium/black.png",
+              "zPos": 110
+            }
+          ]
+        },
+        {
+          "id": "beard:beards_beard:male:black",
+          "label": "Básica · Black",
+          "variant": "black",
+          "bodyType": null,
+          "layers": [
+            {
+              "url": "/lpc/beards/beard/basic/black.png",
+              "zPos": 110
+            }
+          ]
+        },
+        {
+          "id": "beard:beards_beard:male:chestnut",
+          "label": "Básica · Chestnut",
+          "variant": "chestnut",
+          "bodyType": null,
+          "layers": [
+            {
+              "url": "/lpc/beards/beard/basic/chestnut.png",
+              "zPos": 110
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shield",
+      "name": "Escudo",
+      "zPos": 110,
+      "optional": true,
+      "options": [
+        {
+          "id": "shield:shield:male:crusader",
+          "label": "Escudo · Crusader",
+          "variant": "crusader",
+          "bodyType": null,
+          "layers": [
+            {
+              "url": "/lpc/shield/male/crusader.png",
+              "zPos": 110
+            }
+          ]
+        },
+        {
+          "id": "shield:shield:male:spartan",
+          "label": "Escudo · Spartan",
+          "variant": "spartan",
+          "bodyType": null,
+          "layers": [
+            {
+              "url": "/lpc/shield/male/spartan.png",
+              "zPos": 110
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hair",
+      "name": "Pelo",
+      "zPos": 120,
+      "optional": true,
+      "options": [
+        {
+          "id": "hair:hair_long:male:blonde",
+          "label": "Largo · Blonde",
+          "variant": "blonde",
+          "bodyType": null,
+          "layers": [
+            {
+              "url": "/lpc/hair/long/male/blonde.png",
+              "zPos": 120
+            }
+          ]
+        },
+        {
+          "id": "hair:hair_long:male:black",
+          "label": "Largo · Black",
+          "variant": "black",
+          "bodyType": null,
+          "layers": [
+            {
+              "url": "/lpc/hair/long/male/black.png",
+              "zPos": 120
+            }
+          ]
+        },
+        {
+          "id": "hair:hair_long:male:redhead",
+          "label": "Largo · Redhead",
+          "variant": "redhead",
+          "bodyType": null,
+          "layers": [
+            {
+              "url": "/lpc/hair/long/male/redhead.png",
+              "zPos": 120
+            }
+          ]
+        },
+        {
+          "id": "hair:hair_long:male:white",
+          "label": "Largo · White",
+          "variant": "white",
+          "bodyType": null,
+          "layers": [
+            {
+              "url": "/lpc/hair/long/male/white.png",
+              "zPos": 120
+            }
+          ]
+        },
+        {
+          "id": "hair:hair_plain:male:blonde",
+          "label": "Corto · Blonde",
+          "variant": "blonde",
+          "bodyType": null,
+          "layers": [
+            {
+              "url": "/lpc/hair/plain/male/blonde.png",
+              "zPos": 120
+            }
+          ]
+        },
+        {
+          "id": "hair:hair_plain:male:black",
+          "label": "Corto · Black",
+          "variant": "black",
+          "bodyType": null,
+          "layers": [
+            {
+              "url": "/lpc/hair/plain/male/black.png",
+              "zPos": 120
+            }
+          ]
+        },
+        {
+          "id": "hair:hair_plain:male:chestnut",
+          "label": "Corto · Chestnut",
+          "variant": "chestnut",
+          "bodyType": null,
+          "layers": [
+            {
+              "url": "/lpc/hair/plain/male/chestnut.png",
+              "zPos": 120
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "horns",
+      "name": "Cuernos",
+      "zPos": 126,
+      "optional": true,
+      "options": [
+        {
+          "id": "horns:head_horns_curled:male:horns",
+          "label": "Cuernos · Horns",
+          "variant": "horns",
+          "bodyType": null,
+          "layers": [
+            {
+              "url": "/lpc/head/horns/curled/adult/horns.png",
+              "zPos": 126
+            }
+          ]
+        },
+        {
+          "id": "horns:head_horns_curled:male:black",
+          "label": "Cuernos · Black",
+          "variant": "black",
+          "bodyType": null,
+          "layers": [
+            {
+              "url": "/lpc/head/horns/curled/adult/black.png",
+              "zPos": 126
+            }
+          ]
+        },
+        {
+          "id": "horns:head_horns_curled:male:metallic_iron",
+          "label": "Cuernos · Metallic_iron",
+          "variant": "metallic_iron",
+          "bodyType": null,
+          "layers": [
+            {
+              "url": "/lpc/head/horns/curled/adult/metallic_iron.png",
+              "zPos": 126
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ears",
+      "name": "Orejas",
+      "zPos": 130,
+      "optional": true,
+      "options": [
+        {
+          "id": "ears:head_ears_elven:male:light",
+          "label": "Élficas · Light",
+          "variant": "light",
+          "bodyType": null,
+          "layers": [
+            {
+              "url": "/lpc/head/ears/elven/adult/light.png",
+              "zPos": 130
+            }
+          ]
+        },
+        {
+          "id": "ears:head_ears_elven:male:olive",
+          "label": "Élficas · Olive",
+          "variant": "olive",
+          "bodyType": null,
+          "layers": [
+            {
+              "url": "/lpc/head/ears/elven/adult/olive.png",
+              "zPos": 130
+            }
+          ]
+        },
+        {
+          "id": "ears:head_ears_elven:male:bronze",
+          "label": "Élficas · Bronze",
+          "variant": "bronze",
+          "bodyType": null,
+          "layers": [
+            {
+              "url": "/lpc/head/ears/elven/adult/bronze.png",
+              "zPos": 130
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "helmet",
+      "name": "Casco",
+      "zPos": 130,
+      "optional": true,
+      "options": [
+        {
+          "id": "helmet:hat_helmet_greathelm:male:steel",
+          "label": "Yelmo · Steel",
+          "variant": "steel",
+          "bodyType": null,
+          "layers": [
+            {
+              "url": "/lpc/hat/helmet/greathelm/male/steel.png",
+              "zPos": 130
+            }
+          ]
+        },
+        {
+          "id": "helmet:hat_helmet_greathelm:male:iron",
+          "label": "Yelmo · Iron",
+          "variant": "iron",
+          "bodyType": null,
+          "layers": [
+            {
+              "url": "/lpc/hat/helmet/greathelm/male/iron.png",
+              "zPos": 130
+            }
+          ]
+        },
+        {
+          "id": "helmet:hat_helmet_greathelm:male:bronze",
+          "label": "Yelmo · Bronze",
+          "variant": "bronze",
+          "bodyType": null,
+          "layers": [
+            {
+              "url": "/lpc/hat/helmet/greathelm/male/bronze.png",
+              "zPos": 130
+            }
+          ]
+        },
+        {
+          "id": "helmet:hat_helmet_mail:male:steel",
+          "label": "Capucha · Steel",
+          "variant": "steel",
+          "bodyType": null,
+          "layers": [
+            {
+              "url": "/lpc/hat/helmet/mail/adult/steel.png",
+              "zPos": 125
+            }
+          ]
+        },
+        {
+          "id": "helmet:hat_helmet_mail:male:iron",
+          "label": "Capucha · Iron",
+          "variant": "iron",
+          "bodyType": null,
+          "layers": [
+            {
+              "url": "/lpc/hat/helmet/mail/adult/iron.png",
+              "zPos": 125
+            }
+          ]
+        },
+        {
+          "id": "helmet:hat_magic_wizard:male:base_black",
+          "label": "Sombrero mago · Base_black",
+          "variant": "base_black",
+          "bodyType": null,
+          "layers": [
+            {
+              "url": "/lpc/hat/magic/wizard/base/adult/base_black.png",
+              "zPos": 130
+            }
+          ]
+        },
+        {
+          "id": "helmet:hat_magic_wizard:male:base_gray",
+          "label": "Sombrero mago · Base_gray",
+          "variant": "base_gray",
+          "bodyType": null,
+          "layers": [
+            {
+              "url": "/lpc/hat/magic/wizard/base/adult/base_gray.png",
+              "zPos": 130
+            }
+          ]
+        },
+        {
+          "id": "helmet:hat_magic_wizard:male:base_red",
+          "label": "Sombrero mago · Base_red",
+          "variant": "base_red",
+          "bodyType": null,
+          "layers": [
+            {
+              "url": "/lpc/hat/magic/wizard/base/adult/base_red.png",
+              "zPos": 130
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "weapon",
+      "name": "Arma",
+      "zPos": 140,
+      "optional": true,
+      "options": [
+        {
+          "id": "weapon:weapon_sword_longsword:male:longsword",
+          "label": "Espada · Longsword",
+          "variant": "longsword",
+          "bodyType": null,
+          "layers": [
+            {
+              "url": "/lpc/weapon/sword/longsword/universal_behind/longsword.png",
+              "zPos": 9
+            },
+            {
+              "url": "/lpc/weapon/sword/longsword/longsword.png",
+              "zPos": 140
+            }
+          ]
+        },
+        {
+          "id": "weapon:weapon_sword_arming:male:steel",
+          "label": "Espada corta · Steel",
+          "variant": "steel",
+          "bodyType": null,
+          "layers": [
+            {
+              "url": "/lpc/weapon/sword/arming/attack_slash/bg/steel.png",
+              "zPos": 8
+            },
+            {
+              "url": "/lpc/weapon/sword/arming/attack_halfslash/bg/steel.png",
+              "zPos": 8
+            },
+            {
+              "url": "/lpc/weapon/sword/arming/universal/bg/steel.png",
+              "zPos": 9
+            },
+            {
+              "url": "/lpc/weapon/sword/arming/universal/fg/steel.png",
+              "zPos": 140
+            },
+            {
+              "url": "/lpc/weapon/sword/arming/attack_slash/fg/steel.png",
+              "zPos": 150
+            },
+            {
+              "url": "/lpc/weapon/sword/arming/attack_halfslash/fg/steel.png",
+              "zPos": 150
+            }
+          ]
+        },
+        {
+          "id": "weapon:weapon_sword_arming:male:gold",
+          "label": "Espada corta · Gold",
+          "variant": "gold",
+          "bodyType": null,
+          "layers": [
+            {
+              "url": "/lpc/weapon/sword/arming/attack_slash/bg/gold.png",
+              "zPos": 8
+            },
+            {
+              "url": "/lpc/weapon/sword/arming/attack_halfslash/bg/gold.png",
+              "zPos": 8
+            },
+            {
+              "url": "/lpc/weapon/sword/arming/universal/bg/gold.png",
+              "zPos": 9
+            },
+            {
+              "url": "/lpc/weapon/sword/arming/universal/fg/gold.png",
+              "zPos": 140
+            },
+            {
+              "url": "/lpc/weapon/sword/arming/attack_slash/fg/gold.png",
+              "zPos": 150
+            },
+            {
+              "url": "/lpc/weapon/sword/arming/attack_halfslash/fg/gold.png",
+              "zPos": 150
+            }
+          ]
+        },
+        {
+          "id": "weapon:weapon_sword_glowsword:male:blue",
+          "label": "Espada mágica · Blue",
+          "variant": "blue",
+          "bodyType": null,
+          "layers": [
+            {
+              "url": "/lpc/weapon/sword/glowsword/universal_behind/blue.png",
+              "zPos": 9
+            },
+            {
+              "url": "/lpc/weapon/sword/glowsword/blue.png",
+              "zPos": 140
+            }
+          ]
+        },
+        {
+          "id": "weapon:weapon_sword_glowsword:male:red",
+          "label": "Espada mágica · Red",
+          "variant": "red",
+          "bodyType": null,
+          "layers": [
+            {
+              "url": "/lpc/weapon/sword/glowsword/universal_behind/red.png",
+              "zPos": 9
+            },
+            {
+              "url": "/lpc/weapon/sword/glowsword/red.png",
+              "zPos": 140
+            }
+          ]
+        },
+        {
+          "id": "weapon:weapon_sword_dagger:male:dagger",
+          "label": "Daga · Dagger",
+          "variant": "dagger",
+          "bodyType": null,
+          "layers": [
+            {
+              "url": "/lpc/weapon/sword/dagger/behind/dagger.png",
+              "zPos": 9
+            },
+            {
+              "url": "/lpc/weapon/sword/dagger/dagger.png",
+              "zPos": 140
+            }
+          ]
+        },
+        {
+          "id": "weapon:weapon_blunt_waraxe:male:waraxe",
+          "label": "Hacha · Waraxe",
+          "variant": "waraxe",
+          "bodyType": null,
+          "layers": [
+            {
+              "url": "/lpc/weapon/blunt/waraxe/behind/waraxe.png",
+              "zPos": 9
+            },
+            {
+              "url": "/lpc/weapon/blunt/waraxe/waraxe.png",
+              "zPos": 140
+            }
+          ]
+        },
+        {
+          "id": "weapon:weapon_blunt_mace:male:mace",
+          "label": "Maza · Mace",
+          "variant": "mace",
+          "bodyType": null,
+          "layers": [
+            {
+              "url": "/lpc/weapon/blunt/mace/universal_behind/mace.png",
+              "zPos": 9
+            },
+            {
+              "url": "/lpc/weapon/blunt/mace/mace.png",
+              "zPos": 140
+            }
+          ]
+        },
+        {
+          "id": "weapon:weapon_polearm_spear:male:steel",
+          "label": "Lanza · Steel",
+          "variant": "steel",
+          "bodyType": null,
+          "layers": [
+            {
+              "url": "/lpc/weapon/polearm/spear/background/steel.png",
+              "zPos": 9
+            },
+            {
+              "url": "/lpc/weapon/polearm/spear/foreground/steel.png",
+              "zPos": 140
+            }
+          ]
+        },
+        {
+          "id": "weapon:weapon_ranged_bow_normal:male:steel",
+          "label": "Arco · Steel",
+          "variant": "steel",
+          "bodyType": null,
+          "layers": [
+            {
+              "url": "/lpc/weapon/ranged/bow/normal/universal/foreground/steel.png",
+              "zPos": 140
+            }
+          ]
+        },
+        {
+          "id": "weapon:weapon_magic_gnarled:male:steel",
+          "label": "Báculo nudoso · Steel",
+          "variant": "steel",
+          "bodyType": null,
+          "layers": [
+            {
+              "url": "/lpc/weapon/magic/gnarled/universal/background/steel.png",
+              "zPos": 9
+            },
+            {
+              "url": "/lpc/weapon/magic/gnarled/universal/foreground/steel.png",
+              "zPos": 140
+            }
+          ]
+        },
+        {
+          "id": "weapon:weapon_magic_gnarled:male:gold",
+          "label": "Báculo nudoso · Gold",
+          "variant": "gold",
+          "bodyType": null,
+          "layers": [
+            {
+              "url": "/lpc/weapon/magic/gnarled/universal/background/gold.png",
+              "zPos": 9
+            },
+            {
+              "url": "/lpc/weapon/magic/gnarled/universal/foreground/gold.png",
+              "zPos": 140
+            }
+          ]
+        },
+        {
+          "id": "weapon:weapon_magic_gnarled:male:dark",
+          "label": "Báculo nudoso · Dark",
+          "variant": "dark",
+          "bodyType": null,
+          "layers": [
+            {
+              "url": "/lpc/weapon/magic/gnarled/universal/background/dark.png",
+              "zPos": 9
+            },
+            {
+              "url": "/lpc/weapon/magic/gnarled/universal/foreground/dark.png",
+              "zPos": 140
+            }
+          ]
+        },
+        {
+          "id": "weapon:weapon_magic_crystal:male:blue",
+          "label": "Báculo cristal · Blue",
+          "variant": "blue",
+          "bodyType": null,
+          "layers": [
+            {
+              "url": "/lpc/weapon/magic/crystal/universal/background/blue.png",
+              "zPos": 9
+            },
+            {
+              "url": "/lpc/weapon/magic/crystal/universal/foreground/blue.png",
+              "zPos": 140
+            }
+          ]
+        },
+        {
+          "id": "weapon:weapon_magic_crystal:male:purple",
+          "label": "Báculo cristal · Purple",
+          "variant": "purple",
+          "bodyType": null,
+          "layers": [
+            {
+              "url": "/lpc/weapon/magic/crystal/universal/background/purple.png",
+              "zPos": 9
+            },
+            {
+              "url": "/lpc/weapon/magic/crystal/universal/foreground/purple.png",
+              "zPos": 140
+            }
+          ]
+        },
+        {
+          "id": "weapon:weapon_magic_crystal:male:red",
+          "label": "Báculo cristal · Red",
+          "variant": "red",
+          "bodyType": null,
+          "layers": [
+            {
+              "url": "/lpc/weapon/magic/crystal/universal/background/red.png",
+              "zPos": 9
+            },
+            {
+              "url": "/lpc/weapon/magic/crystal/universal/foreground/red.png",
+              "zPos": 140
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
